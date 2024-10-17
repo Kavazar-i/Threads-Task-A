@@ -9,7 +9,11 @@ public class Main {
     private static volatile boolean flag = false;
 
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        task1();
+//        task2();
+//        task3();
+//        task4();
+//        task5();
     }
 
     public static void task1() {
